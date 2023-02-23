@@ -1,0 +1,19 @@
+html, body {
+	background: grey;
+	height: 100%;
+	margin: 0;
+	}
+div {
+	max-width:800px;
+	margin: auto;
+	background: DarkTurquoise;
+	height: 100%;
+}
+h2 {color: red}
+table{
+	cell-padding:"0";
+	}
+img {
+	
+	vertical-align: top;
+	}
